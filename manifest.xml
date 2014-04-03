@@ -1,0 +1,17 @@
+<package>
+  <description brief="icarus_sim_server">
+
+     icarus_sim_server
+
+  </description>
+  <author>davidgitz</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/icarus_sim_server</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+
+</package>
+
+
